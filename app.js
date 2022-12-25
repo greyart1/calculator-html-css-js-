@@ -2,7 +2,7 @@
 // let screen = document.getElementsByClassName("screen");  // not woring i dont know why 
 let screen=document.getElementById('screen');
 
-let screenValue;
+let screenValue="";
 
 let button=document.querySelectorAll('button');
 
